@@ -1,3 +1,44 @@
+# On Regular Investing
+
+Regular investing is quite simple: 
+
+>Regularly invest a set amount in a particular investment over a long period of time.
+
+For example, **every week** (regularly) for the next **five to ten years**  invest **200 USD** (a set amount) in **[BOX](https://b.watch)** (a particular investment). Of course, you could change BOX to any investment that is worth investing in an holding over a long period of time, like shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
+
+*On Regular Investing* （Chinese:《定投改变命运》）is about my thoughts of WHY and HOW on regular investing.
+
+This README file is of the first edition of this book.
+
+[The second edition](new-edition-for-publishing.md) is for publishing in China.
+
+Translations in various languages available in the folder *[Translations](Translations/)*.
+
+Chinese audiobook available in the folder [audiobooks](audiobooks/).
+
+The third edition of the book was published online: https://onregularinvesting.com, Chinese and English available. Files are in the folder ```./docs```
+
+-----
+
+《定投改变命运》第三版，HTML 版本已放置在 https://onregularinvesting.com
+
+## 下载（Download）
+
+### PDF
+
+> * [定投改变命运（第三版）pdf](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/pdf/on-regularinvesting-cn.pdf)
+> * [On Regular Investing pdf](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/pdf/on-regularinvesting-en.pdf)
+
+### EPUB
+> * [定投改变命运（第三版）epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_cn.epub)
+> * [On Regular Investing epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_en.epub)
+
+### MOBI
+> * [定投改变命运（第三版）mobi](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/mobi/OnRegularInvesting_cn.mobi)
+> * [On Regular Investing mobi](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/mobi/OnRegularInvesting_en.mobi)
+
+-----
+
 # 定投 —— 大佬的自我修养
 
 *—— 让时间陪你慢慢变富……*
@@ -13,6 +54,8 @@ https://b.watch
 -----
 
 **注**：有声版在 [audiobook](audiobook/) 目录之下
+
+**2019.12.25**: 此书第二版已由果麦文化印刷发行，[当当购买链接](http://product.dangdang.com/28493272.html?_utm_ad_id=83757) ｜ [京东购买链接](https://item.jd.com/12605781.html)
 
 ---
 
@@ -34,7 +77,7 @@ https://b.watch
 
 > 所谓的定投，就是针对某个投资标的在很长的时间内定期投资一定的金额。
 
-例如，在未来的 **5 到 10 年之中**（很长的时间），**每周**（定期）投资 **[BOX](https://b.watch)** 这个无管理费的区块链 ETF 产品**（投资标的）**150 美元或者 1000 元人民币**（一定的金额）…… 当然，你可以把 [BOX](https://b.watch) 替换为任何值得长期投资并持有的标的，比如苹果公司股票、贵州茅台股票，可口可乐股票，或者标准普尔指数基金。
+例如，在未来的 **5 到 10 年之中**（很长的时间），**每周**（定期）投资 **[BOX](https://b.watch)** 这个无管理费的区块链 ETF 产品（投资标的）**150 美元或者 1000 元人民币**（一定的金额）…… 当然，你可以把 [BOX](https://b.watch) 替换为任何值得长期投资并持有的标的，比如苹果公司股票、贵州茅台股票，可口可乐股票，或者标准普尔指数基金。
 
 在任何一个社会，在任何一个时代，绝大多数人都处于终生抱怨的状态。然而，在今天这个时代 —— **今天这个有着自由且成熟的证券交易市场存在的时代** —— 绝大多数终生抱怨的人其实并不知道他们每个人（对，就是每个人）都实际上因为无知错过了自己摆脱一切抱怨的机会。
 
